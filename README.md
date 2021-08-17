@@ -8,6 +8,6 @@
 <div>
   <a href="https://github.com/Quebec-Eric">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quebec-Eric&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img align="right" alt="Felipe-gif" height="181" width="250" src="https://cdn.discordapp.com/attachments/684903546906476556/876944133028212797/dsBuffer.bmp.png">
+   <img align="right" alt="Felipe-gif" height="181" width="250" src="https://i2.wp.com/guildadosmestres.com.br/wp-content/uploads/2018/08/horda.jpg?resize=945%2C535">
 
 </div>
