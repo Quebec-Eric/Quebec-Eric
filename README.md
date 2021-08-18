@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I’m currently studying Computer Science in PUC-Minas
+### C and Java :hatched_chick: :hatched_chick: 
 
 <!--
 **Quebec-Eric/Quebec-Eric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
