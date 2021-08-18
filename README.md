@@ -5,7 +5,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Quebec-Eric&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quebec-Eric&&layout=compact&hide=shell&theme=onedark"/>
 
-  <img align="center" width="158" height="180" src="https://c.tenor.com/TbTe1Nc6j34AAAAC/hacker-hackerman.gif">
+  <img align="right" width="158" height="180" src="https://c.tenor.com/TbTe1Nc6j34AAAAC/hacker-hackerman.gif">
 </div>
  <br>
 <div  align="center"> 
