@@ -8,15 +8,16 @@
   
 </div>
  <br>
-<div  align="center"> 
-  <img align="center" width="158" height="180" src="https://c.tenor.com/TbTe1Nc6j34AAAAC/hacker-hackerman.gif">
-  <br></br>
-  <img align="center" alt="Sam-Js" height="25" width="70" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img align="center" alt="Sam-Js" height="25" width="70" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img align="center" alt="Sam-Js" height="25" width="70" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Sam-Js" height="25" width="70" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="Sam-Js" height="25" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Sam-Js" height="25" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Felipe-lang1" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Felipe-lang2" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Felipe-lang3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Felipe-lang4" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Felipe-lang8" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"> 
+    <img align="center" alt="Felipe-lang8" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"> 
+     <img align="center" alt="Felipe-lang8" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"> 
+    <img align="center" alt="Felipe-lang8" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> 
+        <img align="center" alt="Felipe-lang8" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"> 
  
   
  
