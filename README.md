@@ -1,9 +1,12 @@
 
 ### I’m currently studying Computer Science in PUC-Minas
+
 <div>
   <a href="https://github.com/Quebec-Eric">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Quebec-Eric&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quebec-Eric&&layout=compact&hide=shell&theme=onedark"/>
+</div>
+
 
   
 </div>
