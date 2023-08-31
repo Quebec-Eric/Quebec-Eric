@@ -10,9 +10,7 @@
 
   
 </div>
-   <img align="center" width="158" height="180" src="https://c.tenor.com/TbTe1Nc6j34AAAAC/hacker-hackerman.gif">
-  <br></br>
- <br>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-lang5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Eric-lang1" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
