@@ -31,14 +31,10 @@ I'm a Computer Science student at PUCMG from Brazil 🇧🇷
 
 
 ## GitHub Stats
-<div align="center">
-  <a href="https://github.com/Quebec-Eric">
-    <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Quebec-Eric&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Quebec-Eric">
-    <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quebec-Eric&layout=compact&hide=shell&theme=chartreuse-dark" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quebec-Eric&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="Quebec-Eric's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quebec-Eric&layout=compact&hide=shell&theme=chartreuse-dark" alt="Most used languages" height="165" />
+</p>
 
   
 
