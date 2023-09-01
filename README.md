@@ -1,18 +1,19 @@
 
 I'm a Computer Science student at PUCMG from Brazil 🇧🇷
 
-About me
+## About Me
+🔬 Researcher specializing in Smart Cities and Quantum Computing  
+🎓 Teaching Assistant in Graph Theory at PUCMG  
+🔢 Strong Mathematical Foundations  
+🔧 Passionate about low-level languages, architecture 
+🗣 Fluent in English  
 
-🔍 Researcher in Smart Cities and Quantum Computing
-👨‍🏫 Teaching Assistant in Graph Theory at PUCMG
-
-📊 Experienced in:
-  - 🛠️ Frontend: PyQT, QT, Python
-  - 🛠️ Backend: Flask, Python , C++ , C , Java
-  - 🗃️ Databases: SQL Server, MySQL, SQL
-  - 📝 Other Skills: Latex
-
-💬 Fluent in English
+## Technical Skills
+- **Frontend**: PyQT, QT, Python
+- **Backend Languages**: C++, C, Java, Python
+- **Backend Frameworks**: Flask
+- **Databases**: SQL Server, MySQL, SQL
+- **Other Skills**: LaTeX, Low-Level Optimization  
 
 </div>
 
@@ -35,7 +36,8 @@ About me
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quebec-Eric&&layout=compact&hide=shell&theme=chartreuse-dark"/>
    
 </div>
-
+## GitHub Stats
+[![Your GitHub stats here](https://github-readme-stats.vercel.app/api?username=YourUsername)](https://github.com/YourUsername)
 
   
 
