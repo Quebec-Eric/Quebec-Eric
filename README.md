@@ -5,6 +5,8 @@
   <a href="https://github.com/Quebec-Eric">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Quebec-Eric&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quebec-Eric&&layout=compact&hide=shell&theme=chartreuse-dark"/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+    
 </div>
 
 
