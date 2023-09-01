@@ -1,16 +1,19 @@
 
-### I’m currently studying Computer Science in PUC-Minas
+I'm a Computer Science student at PUCMG from Brazil 🇧🇷
 
-<div>
-  <a href="https://github.com/Quebec-Eric">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Quebec-Eric&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quebec-Eric&&layout=compact&hide=shell&theme=chartreuse-dark"/>
+About me
 
-    
-</div>
+🔍 Researcher in Smart Cities and Quantum Computing
+👨‍🏫 Teaching Assistant in Graph Theory at PUCMG
 
+📊 Experienced in:
+  - 🛠️ Frontend: PyQT, QT, Python, C++
+  - 🛠️ Backend: Flask, Python
+  - 🗃️ Databases: SQL Server, MySQL, SQL
+  - 📝 Other Skills: Latex
 
-  
+💬 Fluent in English
+
 </div>
 
   <div style="display: inline_block"><br>
@@ -23,6 +26,17 @@
   <img align="center" alt="Eric-lang1" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
      <img align="center" alt="Eric-lang1" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
 </div>
+  
+
+
+<div>
+  <a href="https://github.com/Quebec-Eric">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Quebec-Eric&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quebec-Eric&&layout=compact&hide=shell&theme=chartreuse-dark"/>
+   
+</div>
+
+
   
 
 
