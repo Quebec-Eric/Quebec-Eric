@@ -36,8 +36,9 @@ I'm a Computer Science student at PUCMG from Brazil 🇧🇷
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quebec-Eric&&layout=compact&hide=shell&theme=chartreuse-dark"/>
    
 </div>
+
 ## GitHub Stats
-[![Your GitHub stats here](https://github-readme-stats.vercel.app/api?username=YourUsername)](https://github.com/YourUsername)
+[![Quebec-Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quebec-Eric)](https://github.com/Quebec-Eric)
 
   
 
