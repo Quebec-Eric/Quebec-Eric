@@ -7,8 +7,8 @@ About me
 👨‍🏫 Teaching Assistant in Graph Theory at PUCMG
 
 📊 Experienced in:
-  - 🛠️ Frontend: PyQT, QT, Python, C++
-  - 🛠️ Backend: Flask, Python
+  - 🛠️ Frontend: PyQT, QT, Python
+  - 🛠️ Backend: Flask, Python , C++ , C , Java
   - 🗃️ Databases: SQL Server, MySQL, SQL
   - 📝 Other Skills: Latex
 
