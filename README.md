@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Azevedo de Oliveira</h1>
-<h3 align="center">🔬 Researcher specializing in Quantum Computing 🎓 Teaching Assistant in Graph Theory at PUCMG 🔢 Strong Mathematical Foundations 🔧 Passionate about full-stack development and low-level languages 🗣 Fluent in English and proficient in C#</h3>
+<h3 align="center">I am a Computer Science graduate from PUC Minas, specializing in advanced computational theories and systems </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quebec-eric&label=Profile%20views&color=0e75b6&style=flat" alt="quebec-eric" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Advanced Quantum Algorithms**
 
-- 🌱 I’m currently learning ****Frameworks:** .NET Core for C# development **Courses:** Advanced Quantum Mechanics, Urban Data Analysis**
+- 🌱 I’m currently learning **Courses:** Advanced Quantum Mechanics**
 
 - 🤝 I’m looking for help with **Distributed Computing for Quantum Simulations**
 
