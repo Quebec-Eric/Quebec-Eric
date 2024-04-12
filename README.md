@@ -1,42 +1,30 @@
+<h1 align="center">Hi 👋, I'm Eric Azevedo de Oliveira</h1>
+<h3 align="center">🔬 Researcher specializing in Quantum Computing 🎓 Teaching Assistant in Graph Theory at PUCMG 🔢 Strong Mathematical Foundations 🔧 Passionate about full-stack development and low-level languages 🗣 Fluent in English and proficient in C#</h3>
 
-I'm a Computer Science student at PUCMG from Brazil 🇧🇷
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=quebec-eric&label=Profile%20views&color=0e75b6&style=flat" alt="quebec-eric" /> </p>
 
-## About Me
-🔬 Researcher specializing in Smart Cities and Quantum Computing  
-🎓 Teaching Assistant in Graph Theory at PUCMG  
-🔢 Strong Mathematical Foundations  
-🔧 Passionate about low-level languages, architecture 
-🗣 Fluent in English  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quebec-eric" alt="quebec-eric" /></a> </p>
 
-## Technical Skills
-- **Frontend**: PyQT, QT, Python
-- **Backend Languages**: C++, C, Java, Python
-- **Backend Frameworks**: Flask
-- **Databases**: SQL Server, MySQL, SQL
-- **Other Skills**: LaTeX, Low-Level Optimization  
+- 🔭 I’m currently working on **Advanced Quantum Algorithms**
 
-</div>
+- 🌱 I’m currently learning ****Frameworks:** .NET Core for C# development **Courses:** Advanced Quantum Mechanics, Urban Data Analysis**
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Eric-lang1" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Eric-lang1" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-    <img align="center" alt="Felipe-lang4" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="Felipe-lang8" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"> 
-  <img align="center" alt="Eric-lang1" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    <img align="center" alt="Eric-lang1" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line.svg">
-  <img align="center" alt="Eric-lang1" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg">
-  <img align="center" alt="Eric-lang1" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-     <img align="center" alt="Eric-lang1" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-</div>
-  
+- 🤝 I’m looking for help with **Distributed Computing for Quantum Simulations**
 
+- 💬 Ask me about **C++, C#, AI, Smart Cities, Quantum Computing**
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quebec-Eric&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="Quebec-Eric's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quebec-Eric&layout=compact&hide=shell&theme=chartreuse-dark" alt="Most used languages" height="165" />
+- 📫 How to reach me **quebec.ericjs@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/eric-azevedo-de-oliveira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eric-azevedo-de-oliveira/" height="30" width="40" /></a>
 </p>
 
-  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quebec-eric&show_icons=true&locale=en&layout=compact" alt="quebec-eric" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quebec-eric&show_icons=true&locale=en" alt="quebec-eric" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quebec-eric&" alt="quebec-eric" /></p>
