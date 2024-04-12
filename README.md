@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eric Azevedo de Oliveira</h1>
 <h3 align="center">I am a Computer Science graduate from PUC Minas, specializing in advanced computational theories and systems </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quebec-eric&label=Profile%20views&color=0e75b6&style=flat" alt="quebec-eric" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quebec-eric" alt="quebec-eric" /></a> </p>
 
 - 🔭 I’m currently working on **Advanced Quantum Algorithms**
 
