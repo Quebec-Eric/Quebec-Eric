@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Advanced Quantum Algorithms**
 
-- 🌱 I’m currently learning **Courses:** Advanced Quantum Mechanics**
+- 🌱 I’m currently learning **Advanced Quantum Mechanics**
 
 - 🤝 I’m looking for help with **Distributed Computing for Quantum Simulations**
 
